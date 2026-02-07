@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.next/
+.DS_Store
+frontend/node_modules/
+backend/node_modules/
+backend/dist/
+frontend/.next/
+frontend/out/
+frontend/build/
+config.bat
